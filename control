@@ -1,0 +1,10 @@
+Package: com.danitox.toxd
+Name: toxd
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A socket server that kills SpringBoard when contacted
+Maintainer: Dani Tox
+Author: Dani Tox
+Section: System
+Tag: role::hacker
